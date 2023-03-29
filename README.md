@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://img.shields.io/badge/jjinstalk@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+
+:computer:
+
+<img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=C Sharp&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/>
