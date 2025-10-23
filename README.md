@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 
 
 <img src="https://img.shields.io/badge/C++-00599C?logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-FFFFFF?logo=Unity&logoColor=black"/> <img src="https://img.shields.io/badge/CSharp-239120"/> <img src="https://img.shields.io/badge/javascript-blue"/>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjinijj&layout=compact)
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjinijj)](https://github.com/anuraghazra/github-readme-stats)-->
