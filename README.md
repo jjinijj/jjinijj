@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi, I'm Jin 👋
 
+🌱 Currently learning JavaScript with **Claude AI**  
+💻 Background: C, C++, C# (Unity)
 <!--
 **jjinijj/jjinijj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
